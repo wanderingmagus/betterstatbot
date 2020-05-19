@@ -1,0 +1,8 @@
+{
+“name”: “betterstatbot”,
+“version”: “1.0.0”,
+“description”: “A Better Stat Bot”,
+“main”: “bot.js”,
+“author”: “Wanderingmagus”,
+“dependencies”: {}
+}
